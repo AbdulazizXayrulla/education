@@ -1,0 +1,17 @@
+.report{
+    grid-area: re;
+}
+.borderMain{
+    width: 30%;
+    border-top: 3px solid #F8C067;
+    float: left;
+
+
+}
+
+.borderMain1 {
+    width: 20%;
+    border-top: 2px solid #F8C067;
+    float: left;
+    margin-bottom: 10px;
+}

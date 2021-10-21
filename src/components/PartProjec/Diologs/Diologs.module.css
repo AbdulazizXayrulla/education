@@ -1,0 +1,9 @@
+.main{
+    grid-area: re;
+}
+.active{
+    color: gold;
+}
+.activeLink{
+    color: gold;
+}

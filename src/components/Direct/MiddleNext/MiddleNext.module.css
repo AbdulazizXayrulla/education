@@ -1,0 +1,23 @@
+.middleNext{
+    grid-area: mn;
+    height: 600px;
+}
+.borderMain{
+    width: 50%;
+    border-top: 3px solid #F8C067;
+    float: left;
+
+
+}
+
+.borderMain1 {
+    width: 30%;
+    border-top: 2px solid #F8C067;
+    float: left;
+    margin-bottom: 10px;
+}
+.opened{
+    background-color:#FAFAFA ;
+    padding: 10px;
+
+}

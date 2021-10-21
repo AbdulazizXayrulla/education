@@ -1,0 +1,10 @@
+.middle {
+    margin-top: 70px;
+    min-height: 300px;
+    grid-area: secBack;
+
+    background-image: url("../../../Assists/Img/Forbackground.jpg");
+background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,40 @@
+.main{
+
+    grid-area: ot;
+}
+.borderMain{
+    width: 30%;
+    border-top: 3px solid #F8C067;
+    float: left;
+
+
+}
+
+.borderMain1 {
+    width: 20%;
+    border-top: 2px solid #F8C067;
+    float: left;
+    margin-bottom: 10px;
+}
+.item{
+    text-align: center;
+}
+.substring:hover{
+    background-color: #3AB54A;
+}
+.substring{
+    transition-duration: .5s;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #104EA3;
+    color: white;
+    width: 215px;
+    text-align: center;
+    height: 70px;
+    border-radius: 15px;
+    padding-top: 16px;
+}
+.substring h5{
+    line-height: .5;
+}
