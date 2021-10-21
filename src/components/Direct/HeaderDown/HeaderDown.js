@@ -31,7 +31,7 @@ const HeaderDown = (props) => {
                             <NavLink to="/Curriculum" className="nav-link" href="#">Curriculum</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink to="/Staff" className="nav-link" href="#">Staff</NavLink>
+                            <NavLink to="/Staff" className="nav-link" href="#">Staffs</NavLink>
                         </li>
                         <li className="nav-item">
                             <NavLink to="/Testimonials" className="nav-link" href="#">Testimonials</NavLink>
